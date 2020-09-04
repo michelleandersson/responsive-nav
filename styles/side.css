@@ -57,3 +57,7 @@ body {
     background-color: #95D5B2;
     color: black;
 }
+
+.closebtn {
+    cursor: pointer;
+}
